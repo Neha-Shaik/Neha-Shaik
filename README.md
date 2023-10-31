@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neha Shaik</h1>
 <h3 align="center">Technophile, Passionate Web Dev</h3>
 
-- 🌱 I’m currently learning **JS, SQL**
 
 - 📫 How to reach me **nehashaik117@gmail.com**
 
